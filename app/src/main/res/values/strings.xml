@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyIntentData</string>
+    <string name="title_activity_move">MoveActivity</string>
+</resources>
